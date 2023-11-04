@@ -1,0 +1,15 @@
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\bin\Debug\net6.0\CheckIfAGivenStringIsSumString.exe
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\bin\Debug\net6.0\CheckIfAGivenStringIsSumString.deps.json
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\bin\Debug\net6.0\CheckIfAGivenStringIsSumString.runtimeconfig.json
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\bin\Debug\net6.0\CheckIfAGivenStringIsSumString.dll
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\bin\Debug\net6.0\CheckIfAGivenStringIsSumString.pdb
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\obj\Debug\net6.0\CheckIfAGivenStringIsSumString.csproj.AssemblyReference.cache
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\obj\Debug\net6.0\CheckIfAGivenStringIsSumString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\obj\Debug\net6.0\CheckIfAGivenStringIsSumString.AssemblyInfoInputs.cache
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\obj\Debug\net6.0\CheckIfAGivenStringIsSumString.AssemblyInfo.cs
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\obj\Debug\net6.0\CheckIfAGivenStringIsSumString.csproj.CoreCompileInputs.cache
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\obj\Debug\net6.0\CheckIfAGivenStringIsSumString.dll
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\obj\Debug\net6.0\refint\CheckIfAGivenStringIsSumString.dll
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\obj\Debug\net6.0\CheckIfAGivenStringIsSumString.pdb
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\obj\Debug\net6.0\CheckIfAGivenStringIsSumString.genruntimeconfig.cache
+C:\Code Challenge\DSA\BackTracking\Easy\CheckIfAGivenStringIsSumString\CheckIfAGivenStringIsSumString\obj\Debug\net6.0\ref\CheckIfAGivenStringIsSumString.dll
